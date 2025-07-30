@@ -1,9 +1,11 @@
 Binaries
+Build
 DerivedDataCache
 Intermediate
 Saved
 .vscode
 .vs
+ProjectLauncher.log
 *.VC.db
 *.opensdf
 *.opendb
