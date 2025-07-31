@@ -4,6 +4,13 @@ This project is a **classic Tic-Tac-Toe** game built entirely in **2D** using **
 
 I made this a few years ago for training **Blueprints** and **2D widgets**.
 
+## 🎮 Play Now on itch.io
+
+The easiest way to play the game is to download it directly from the official itch.io page. No engine installation is required!
+
+**[➡️ Download and Play on itch.io](https://m-u-t-e.itch.io/tictactoe)**
+
+
 ## Demo
 
 <img src="https://github.com/M-U-T-E/TicTacToe/blob/main/assets/Demo.gif?raw=true" alt="Demo.gif" width="500"/>
